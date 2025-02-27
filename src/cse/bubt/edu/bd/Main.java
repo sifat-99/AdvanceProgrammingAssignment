@@ -13,6 +13,10 @@ package cse.bubt.edu.bd;
 
                         if (hoursParked == -1) {
                             break;
+
+
+
+                            
                         }
 
                         double charge = calculateCharges(hoursParked);
